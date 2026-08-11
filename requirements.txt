@@ -5,4 +5,3 @@ Ipython
 matplotlib
 numpy
 pathlib
-textwrap
