@@ -1,0 +1,9 @@
+voila
+ipywidgets
+pandas
+Ipython
+matplotlib
+numbpy
+csv
+pathlib
+textwrap
