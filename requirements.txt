@@ -4,6 +4,5 @@ pandas
 Ipython
 matplotlib
 numpy
-csv
 pathlib
 textwrap
